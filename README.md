@@ -28,6 +28,9 @@ A Telegram bot built with Pyrogram that automatically deletes media messages (ph
 - A Telegram Bot Token (from @BotFather)
 - Telegram API ID and API Hash (from https://my.telegram.org)
 
+##Deployed 
+Koyab/heruku
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
 <p align="center">𝐒𝐮𝐩𝐩𝐨𝐫𝐭 / 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ----> </p>
